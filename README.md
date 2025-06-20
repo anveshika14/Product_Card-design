@@ -1,7 +1,7 @@
 # Product_Card-UI-design
 A clean, responsive, and interactive Product Card UI built using HTML, CSS, and JavaScript. This component is designed to display essential product details in a minimal and modern layout.
 
-🚀 Features
+## 🚀 Features
 🎧 Showcases a product (e.g., headphones)
 
 🖼️ Product image, title, short description, and price
@@ -14,7 +14,7 @@ A clean, responsive, and interactive Product Card UI built using HTML, CSS, and 
 
 ⚙️ Basic JavaScript integration for interactivity
 
-🛠️ Tools & Technologies:
+## 🛠️ Tools & Technologies:
 
 ✅ HTML5
 
