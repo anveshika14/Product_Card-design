@@ -26,4 +26,4 @@ A clean, responsive, and interactive Product Card UI built using HTML, CSS, and 
 
 📸 Demo
 
-https://github.com/user-attachments/assets/7aec28b8-42cc-4776-ae3f-1110c5490fb1
+https://github.com/user-attachments/assets/7aec28b8-42cc
