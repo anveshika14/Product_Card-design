@@ -23,4 +23,3 @@ A clean, responsive, and interactive Product Card UI built using HTML, CSS, and 
 ✅ JavaScript (for dynamic functionality)
 
 🧑‍💻 Code Editor: Visual Studio Code
-
